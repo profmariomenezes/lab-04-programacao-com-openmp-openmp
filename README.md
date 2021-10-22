@@ -99,4 +99,4 @@ Faça um gráfico que mostre a escalabilidade do Speedup para cada quantidade de
 
 Entregue os códigos fontes e as tabelas no formato Excel, onde cada aba da planilha é relativa a uma versão diferente de código com sua respectiva tabela de execução .
 
-**Tarefas todas em dupla.**
+**Tarefas todas em trio.**
