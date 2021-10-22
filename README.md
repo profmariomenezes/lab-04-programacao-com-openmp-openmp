@@ -93,7 +93,7 @@ Faça um programa de multiplicação de matrizes. Fique atento a um bom uso de c
 
 Construa uma versão sequencial e uma versão paralela com OpenMP, utilizando alguma das técnicas estududas e/ou apresentadas na literatura.
 
-Faça uma comparação de tempo de execução com 1, 2, 3, 4, 5 e 6 threads, para cada versão. Construa uma tabela contendo o tempo médio de 3 execuções para cada versão e sua respectiva quantidade de threads.
+Faça uma comparação de tempo de execução com 1, 2, 3, 4, 5 e 6 threads, para a versão paralela. Construa uma tabela contendo o tempo médio de 3 execuções para cada versão e sua respectiva quantidade de threads.
 
 Faça um gráfico que mostre a escalabilidade do Speedup para cada quantidade de threads utilizada.
 
